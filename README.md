@@ -1,3 +1,5 @@
+<img src="./doubleSpiralLoop.svg">
+
 - 👋 Hi, I’m @iansAToasificationDOTorg
 
 - 👀 I’m interested in Oasification to 
