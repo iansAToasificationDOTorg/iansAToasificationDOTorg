@@ -1,0 +1,27 @@
+<!-- 
+/* FilePathName: red-rectangle.svg */
+/* Uploaded: 14:43:39,  Fri 18 Jun 2021 */
+/* LineNo: 14 */--> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect id="red-rectangle" width="50" height="50" x="25" y="25"
+    stroke="#000" fill="red" />
+  <animateTransform 
+           href="#red-rectangle"
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 50 50"
+           to="720 50 50"
+           dur="5s"
+           begin="0s"
+           repeatCount="indefinite"
+           fill="freeze"
+           />
+  <set href="#red-rectangle"
+       attributeName="fill" to="#ddd" 
+       begin="click" dur="1s" />
+
+<set href="#red-rectangle"
+       attributeName="stroke" to="#f00" 
+       begin="click" dur="1s" />
+</svg>
