@@ -27,7 +27,8 @@ rested grass by the time
 the cows complete the loop.
 
 Example of single spiral pair.
-<img width="200" src="./multiSpirelLoop.svg">
+<img width="300" border="2"
+src="./multiSpirelLoop.svg">
 
 The gap spirals could consist
 of bamboo forest which would
