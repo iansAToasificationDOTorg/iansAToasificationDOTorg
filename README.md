@@ -1,4 +1,4 @@
-<img src="./doubleSpiralLoop.svg">
+
 
 - 👋 Hi, I’m @iansAToasificationDOTorg
 
