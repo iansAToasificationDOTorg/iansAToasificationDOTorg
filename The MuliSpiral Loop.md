@@ -29,4 +29,10 @@ the cows complete the loop.
 Example of single spiral pair.
 <img width="200" src="./doubleSpiralLoopB.svg">
 
+The gap spirals could consist
+of bamboo forest which would
+form hedgerows as a fence and
+habitat for birds and animals.
+
+
 </pre>
