@@ -27,7 +27,7 @@ rested grass by the time
 the cows complete the loop.
 
 Example of single spiral pair.
-<img width="300" border="2"
+<img width="300" border="1"
 src="./multiSpirelLoop.svg">
 
 The gap spirals could consist
