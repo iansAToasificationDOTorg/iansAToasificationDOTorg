@@ -21,6 +21,7 @@ an endless looping paddock
 
 </pre>
 <br>
+Example of a single pair <br>
 <img width="200" src="./doubleSpiralLoopB.svg">
 <br>
 
