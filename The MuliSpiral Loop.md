@@ -11,9 +11,9 @@ called "The Muli-Spiral Loop"
 The MultiSpiral Loop consists
 of pairs of spiral paddocks.
 The first half of each pair,
-spiral inward to the centre,
+spiral inward to centre,
 the second half of each pair,
-spirals outward from the centre,
+spirals outward from centre,
 The beginnings of each half,
 loop together such that each
 pair of spirals forms an 
