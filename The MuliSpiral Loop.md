@@ -19,10 +19,7 @@ together such that each pair of
 spirals form
 an endless looping paddock
 
-</pre><center>
-<br>
-Example of a single pair <br>
+Example of a single pair
 <img width="200" src="./doubleSpiralLoopB.svg">
-<br>
-</center>
 
+</pre>
