@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?><!--
+"/* FilePathName: doubleSpiralLoop.svg */"
+"/* Uploaded: 21:07:30,  Sat 17 Jul 2021 */"
+"/* LineNo: 5 */" -->  
+<svg height="830" width="830"
+     style="border:1px solid #000; background:#cd3;"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path id="fr" fill="None" stroke="green" stroke-width="38"/>
+ <text style="font:bold 300% '';" fill="yellow">
+  <textPath href="#fr" startOffset="0"
+       dominant-baseline="middle">&#8702;
+    <animate attributeName="startOffset" from="0%" to="100%" 
+         dur="20s" repeatCount="indefinite" />
+   </textPath>
+  <textPath href="#fr" startOffset="-50"
+        dominant-baseline="middle">&#8702;
+     <animate attributeName="startOffset" from="0%" to="100%" 
+         dur="20s" begin="0.2s" repeatCount="indefinite" />
+   </textPath>
+  </text>
+<script type="application/x-javascript">
+ 'use strict'
+window.onerror=function(m,u,l,c){
+  u=u.split('/')[5].split('?')[0]; c-=1;
+  alert('\u26a0\n '+m+'\n\n@File: '+u+'\n@Line: '+l+'\n@Char: '+c+'\n');
+}
+function gE(i){return document.getElementById(i);}
+ var a;
+var aa;
+var r;
+var x;
+var y;
+var n = '';
+var sf = '';
+var f = 1;
+var g = 18;
+var c = 410;
+var s = 0.01;
+var d = 22;
+  for(a=d; a>3-d; a -= s){
+     aa=1+Math.abs(a);
+     r=g*a;
+     x=(c+r*Math.sin(aa)).toFixed(f);
+     y=(c+r*Math.cos(aa)).toFixed(f);
+    sf+=(a==d)?'M'+x+' '+y+'C':x+' '+y+',';
+  }
+  sf=sf.replace(/,\s*$/, "");
+  gE('fr').setAttribute('d',sf);
+</script>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
