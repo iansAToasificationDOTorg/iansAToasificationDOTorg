@@ -20,7 +20,7 @@ move an electric fence.
 Gallagher make a similar post
 system they called <a
 href="https://www.gallagher.eu/en_export/installation-fence-spider"
->TumbleWheel</a>
+target="_tumble">TumbleWheel</a>
 
 
 
