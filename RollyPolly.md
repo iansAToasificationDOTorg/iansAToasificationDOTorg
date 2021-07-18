@@ -22,6 +22,21 @@ system they called <a
 href="https://www.gallagher.eu/en_export/installation-fence-spider"
 target="_new">TumbleWheel</a>
 
+RollyPolly is based on the
+
+Gallagher TumbleWheel but 
+RollyPolly has no plastic parts
+and can be maintained by 
+the farmer without need to buy
+parts off farm 
+
+
+
+
+
+
+
+
 
 
 
