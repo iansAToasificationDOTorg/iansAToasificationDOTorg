@@ -40,8 +40,8 @@ and the axle is insulated
 by synthetic rope which 
 doubles as the suspension
 method off the guard,
-which also takes the fence
-tension 
+which also manages fence
+tension & electric charge.
 
 
 
