@@ -10,6 +10,11 @@ The wheels are RollyPolly's.
 The solar power also 
 energises the electric fence.
 
+With an optional camera,
+the remote operator can
+monitor fence alignment,
+cows and grass condition.
+
 
 
 </pre>
