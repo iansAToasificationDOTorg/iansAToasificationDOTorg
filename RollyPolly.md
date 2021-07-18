@@ -38,8 +38,7 @@ electrified guard.
 All posts are grounded
 and the axle is insulated
 by synthetic rope which 
-doubles a a suspension 
-method.
+doubles a suspension method.
 
 
 
