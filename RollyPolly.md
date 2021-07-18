@@ -28,7 +28,18 @@ Gallagher TumbleWheel but
 RollyPolly has no plastic
 parts and can be maintained
 by farmers without need to 
-buy parts off farm 
+buy parts off farm.
+
+To discourage cows from 
+scratching on spokes that 
+are up off the ground,
+RollyPolly uses an
+electrified guard.
+All posts are grounded
+and the axle is insulated
+by synthetic rope which 
+doubles a a suspension 
+method.
 
 
 
