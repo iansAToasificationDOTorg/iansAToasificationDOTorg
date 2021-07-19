@@ -27,7 +27,7 @@ rested grass by the time
 the cows complete the loop.
 
    Spiral paddock layout.
-<img width="310" border="1"
+<img border="1"
 src="./multiSpirelLoop.svg">
 
 The gap spirals could consist
