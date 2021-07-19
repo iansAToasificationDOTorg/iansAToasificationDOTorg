@@ -6,7 +6,7 @@ shade system for cows.
 It's size is 8x8 metres or
 64 square metres of 
 solar panels that charge 
-a Tesla power wall battery
+a Tesla Powerwall battery
 
 So it provides shade and
 electricity to power it's 
