@@ -35,7 +35,7 @@ of bamboo forest which would
 form hedgerows as a fence and
 habitat for birds and animals,
 there is a road each side of
-the spiral forrest (Brown)
+forrest (Brown) for vehicles.
 
 
 </pre>
