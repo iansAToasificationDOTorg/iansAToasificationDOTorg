@@ -15,7 +15,12 @@ remote control electronics,
 self propelling motors and
 power for water pumps and 
 charging electric vehicles
-such as Tesla Cybretruck 
+such as Tesla Cybretruck or
+Tesla Semi
+
+https://www.tesla.com/cybertruck
+
+https://www.tesla.com/semi
 
 
 
