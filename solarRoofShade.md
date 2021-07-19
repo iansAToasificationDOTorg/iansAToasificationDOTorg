@@ -21,8 +21,8 @@ Tesla Semi
 https://www.tesla.com/cybertruck
 
 A larger portable shade system 
-(400 square metres) 
-could charge a MegaPack which could then charge
+(about 400 square metres) 
+could charge a Tesla MegaPack which could then charge
 a Tesla Semi
 
 https://www.tesla.com/semi
