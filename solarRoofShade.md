@@ -20,6 +20,10 @@ Tesla Semi
 
 https://www.tesla.com/cybertruck
 
+A larger shade system could charge 
+a MegaPack which could then charge
+a Tesla Semi
+
 https://www.tesla.com/semi
 
 
