@@ -1,4 +1,4 @@
-<pre>
+
 Holistic Management of Planned
 Intensive Grassing, involves
 moving livestock daily.
