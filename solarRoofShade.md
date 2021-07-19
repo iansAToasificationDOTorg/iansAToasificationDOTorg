@@ -14,7 +14,9 @@ electricity to power it's
 remote control electronics,
 self propelling motors and
 power for water pumps and 
-charging electric vehicles.
+charging electric vehicles
+such as Tesla Cybretruck 
+
 
 
 
