@@ -132,7 +132,7 @@ M276.4,610.6 309.2,620.9 303.1,640.4 270.3,630.0Z
 M240.9,593.7 271.7,609.1 262.6,627.4 231.8,612.0Z
 M208.4,571.6 236.4,591.6 224.6,608.2 196.6,588.2Z
 M179.7,544.8 204.3,568.9 190.0,583.5 165.4,559.4Z"/>
-<circle r="12" fill="red" stroke="none">
+<circle r="12" fill="yellow" stroke="1">
     <animateMotion dur="10s" repeatCount="indefinite">
         <mpath href="#pida"/>
     </animateMotion>
