@@ -11,22 +11,16 @@ called "The MultiSpiral Loop"
 The MultiSpiral Loop consists
 of pairs of spiral paddocks.
 The first half of each pair,
-spiral inward to centre,
+spiral inward to the centre,
 the second half of each pair,
-spirals outward from centre.
+spirals outward from the centre.
 
 The beginnings of each half,
 loop together such that each
 pair of spirals forms an 
 endless looping paddock.
 
-The effective length of the
-MultiSpiral Loop paddock,
-provides up to 100 days of
-rested grass by the time 
-the cows complete the loop.
-
-   Spiral paddock layout.
+    Spiral paddock layout.
 <img src="./multiSpirelLoop.svg?x">
 
 The dark green spirals could consist
