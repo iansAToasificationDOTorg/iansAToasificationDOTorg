@@ -27,8 +27,7 @@ rested grass by the time
 the cows complete the loop.
 
    Spiral paddock layout.
-<img border="1"
-src="./multiSpirelLoop.svg?x">
+<img src="./multiSpirelLoop.svg?x">
 
 The gap spirals could consist
 of bamboo forest which would
