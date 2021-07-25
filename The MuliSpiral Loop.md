@@ -1,7 +1,7 @@
 
 Holistic Management of Planned
 Intensive Grassing, involves
-moving livestock daily.
+moving livestock daily. Kit
 
 To save farmers time while 
 moving Cows and Chickens,
@@ -30,7 +30,7 @@ the cows complete the loop.
 <img src="./multiSpirelLoop.svg?x">
 
 The dark green spirals could consist
-of <a href="https://en.m.wikipedia.org/wiki/Bambusa_oldhamii"</a>Bamboo</a> and <a href="https://en.m.wikipedia.org/wiki/Moringa_oleifera">Moringa</a> forest which would
+of <a href="https://en.m.wikipedia.org/wiki/Bambusa_oldhamii">Bamboo</a> and <a href="https://en.m.wikipedia.org/wiki/Moringa_oleifera">Moringa</a> forest which would
 form hedgerows as a fence and
 habitat for birds and animals,
 there is a road each side of
