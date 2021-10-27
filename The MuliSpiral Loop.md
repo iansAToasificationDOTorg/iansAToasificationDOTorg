@@ -20,7 +20,7 @@ loop together such that each
 pair of spirals forms an 
 endless looping paddock.
 
-    Spiral paddock layout.
+    Spiral Loop Paddock Layout.
 <img src="./multiSpirelLoop.svg?x">
 
 The dark green spirals could consist
