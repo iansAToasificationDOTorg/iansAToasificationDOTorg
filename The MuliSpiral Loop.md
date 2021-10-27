@@ -33,7 +33,9 @@ forrest.
 This MultiSpiral paddock
 provides 100 days of grassing.
 Each day paddock is a quarter acre
-or 1 Decare 20 metres wide by 50 metres long
+or 1 Decare 20 metres wide by 50 metres long.
+100 Decare is 10 hectares or 25 acres.
+
 
 
 </pre>
