@@ -30,5 +30,10 @@ habitat for birds and animals,
 the brown spirals are roads each side of
 forrest.
 
+This MultiSpiral paddock
+provides 100 days of grassing.
+Each day paddock is a quarter acre
+or 1 Decare 20 metres wide by 50 metres long
+
 
 </pre>
