@@ -1,12 +1,12 @@
 
-RollyPollyBuggy
+RollyPoleyBuggy
 
-RollyPollyBuggy is a three
+RollyPoleyBuggy is a three
 wheeled solar powered, WIFI
 remote controlled electric
 fence moving system.
 
-The wheels are RollyPolly's.
+The wheels are RollyPoley's.
 The solar power also 
 energises the electric fence.
 
