@@ -1,7 +1,8 @@
 
 Holistic Management of Planned
 Intensive Grassing, involves
-moving livestock daily.
+moving livestock as often as
+twice daily.
 
 To save farmers time while 
 moving Cows and Chickens,
