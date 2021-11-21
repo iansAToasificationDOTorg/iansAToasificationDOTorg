@@ -27,7 +27,7 @@ endless looping paddock.
 The dark green spirals could consist
 of <a href="https://en.m.wikipedia.org/wiki/Bambusa_oldhamii">Bamboo</a> and <a href="https://en.m.wikipedia.org/wiki/Moringa_oleifera">Moringa</a> forest which would
 form hedgerows as a fence and
-habitat for birds and animals,
+habitat for native birds and native animals,
 the brown spirals are roads each side of
 forrest.
 
