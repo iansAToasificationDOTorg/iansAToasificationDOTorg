@@ -1,7 +1,7 @@
 <pre>
-RollyPolly
+RollyPoley
 
-RollyPolly is an electric
+RollyPoley is an electric
 fence, post system.
 
 The fence posts roll, so the
@@ -23,7 +23,7 @@ post system they called
 href="https://www.gallagher.eu/en_export/installation-fence-spider"
 target="_new">TumbleWheel</a>
 
-RollyPolly is based on the
+RollyPoley is based on the
 Gallagher TumbleWheel but 
 RollyPolly has no plastic
 parts and can be maintained
