@@ -6,9 +6,8 @@ twice daily.
 
 To save farmers time while 
 moving Cows and Chickens,
-we have designed a farming
-layout called 
-"The MultiSpiral Loop"
+we have designed a multi-spiral 
+farming layout.
 
 The MultiSpiral Loop consists
 of pairs of spiral paddocks.
